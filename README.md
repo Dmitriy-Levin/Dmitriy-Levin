@@ -1,5 +1,5 @@
 ### Hi there 👋
-Aspiring IT specialist with extensive experience in the field of electrical equipment diagnostics, data analysis, building exploratory models, and hypothesis testing.
+Aspiring IT specialist with extensive experience in the field of electrical equipment diagnostics, including data analysis, building exploratory models, and hypothesis testing.
 
 Data Science Expertise:
 
