@@ -1,4 +1,10 @@
 ### Hi there 👋
+Aspiring IT specialist with extensive experience in the field of electrical equipment diagnostics, data analysis, building exploratory models, and hypothesis testing.
+
+Data Science Expertise:
+
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, SQL, SQLAlchemy
+
 
 <!--
 **Dmitriy-Levin/Dmitriy-Levin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
